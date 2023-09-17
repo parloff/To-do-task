@@ -1,0 +1,39 @@
+* {
+  padding: 0px;
+  margin: 0;
+}
+
+body {
+  background-color: var(--gray-50, #f9fafb);
+  font-family: "sans-serif", "Poppins";
+  padding: 120px;
+}
+h1 {
+  text-align: center;
+  padding-bottom: 35px;
+  font-style: italic;
+}
+#taskInput {
+  padding: 50px;
+  width: 300px;
+  height: 500px;
+  height: auto;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+h3 {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  font-style: italic;
+}
+#addButton {
+  padding: 5px 10px;
+}
+.sec1 {
+  padding-bottom: 4px;
+}
+#taskList li {
+  border-bottom: 1px solid transparent;
+  font-family: Arial, Helvetica, sans-serif;
+}
